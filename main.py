@@ -8,3 +8,4 @@ print(car_1.year)
 print(car_1.color)
 
 car_1.drive()
+car_1.stop()
