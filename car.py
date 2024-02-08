@@ -12,4 +12,3 @@ class Car:
     def stop(self):
         print("This car is stopped")
 
-
